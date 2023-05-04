@@ -7,7 +7,7 @@
         128
       ],
       "tensorPath": "https://raw.githubusercontent.com/.../vectors2022.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata2022.tsv"
+      "metadataPath": "https://github.com/ehamstra/Embedding_Projector_Files_NYT_Project/blob/main/metadata2022.tsv"
     }
   ]
 }

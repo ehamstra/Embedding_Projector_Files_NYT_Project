@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "NYT 2022 Embedding",
+      "tensorShape": [
+        2644,
+        128
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/.../vectors2022.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata2022.tsv"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+
+{
+  "embeddings": [
+    {
+      "tensorName": "vectors1962.tsv",
+      "tensorShape": [
+        5341,
+        128
+      ],
+      "tensorPath": "https://github.com/ehamstra/Embedding_Projector_Files_NYT_Project/blob/main/vectors1962.tsv",
+      "metadataPath": "https://github.com/ehamstra/Embedding_Projector_Files_NYT_Project/blob/main/metadata1962.tsv"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "NYT 2022 Embedding",
+      "tensorName": "vectors2022.tsv",
       "tensorShape": [
         2644,
         128

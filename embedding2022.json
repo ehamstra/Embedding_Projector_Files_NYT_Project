@@ -6,8 +6,8 @@
         2644,
         128
       ],
-      "tensorPath": "https://github.com/ehamstra/Embedding_Projector_Files_NYT_Project/blob/main/vectors2022.tsv",
-      "metadataPath": "https://github.com/ehamstra/Embedding_Projector_Files_NYT_Project/blob/main/metadata2022.tsv"
+      "tensorPath": "https://github.com/ehamstra/Embedding_Projector_Files_NYT_Project/blob/e6e76d4336187191d2fce82b530746fe7fa8da6d/vectors2022.tsv",
+      "metadataPath": "https://github.com/ehamstra/Embedding_Projector_Files_NYT_Project/blob/e6e76d4336187191d2fce82b530746fe7fa8da6d/metadata2022.tsv"
     }
   ]
 }
